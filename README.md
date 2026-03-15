@@ -32,7 +32,7 @@ cpp-llm-interaction-buffer/
 
 🚀 运行效果 (Screenshot & Demo)
 1. 运行截图 (Running Screenshot)
-
+<img width="1322" height="446" alt="Image" src="https://github.com/user-attachments/assets/ff088b9d-04da-427e-99d2-6508b49bd641" />
 
 2. 控制台输出 (Console Output)
 text
